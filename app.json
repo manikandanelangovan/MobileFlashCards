@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "orientation": "portrait",
+    "name": "FlashCards",
+    "description": "The FlashCards! fun quiz app",
+    "slug": "flashcards",
+    "version": "1.0",
+    "icon": "./assets/hourglass.png",
+    "notification": {
+      "icon": "./assets/hourglass.png"
+    },
+    "loading": {
+      "icon": "./assets/hourglass.png"
+    },
+    "ios": {
+     "bundleIdentifier": "org.flashcards.exp"
+    },
+    "android": {
+     "package": "org.flashcards.exp"
+    }
+  }
+}
