@@ -17,7 +17,7 @@ import Container from './Container';
 const Card = styled.View`
   background-color: ${Colors.darkBlue};
   border-bottom-width: 1;
-  border-bottom-color: ${Colors.yellow};
+  border-bottom-color: ${Colors.white};
   padding-left: 20;
   padding-right: 20;
   padding-top: 20;
