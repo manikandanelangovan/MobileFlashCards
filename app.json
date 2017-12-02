@@ -2,9 +2,9 @@
   "expo": {
     "sdkVersion": "21.0.0",
     "orientation": "portrait",
-    "name": "FlashCards",
+    "name": "MyMobileFlashCards",
     "description": "The FlashCards! fun quiz app",
-    "slug": "flashcards",
+    "slug": "mobileflashcards",
     "version": "1.0",
     "icon": "./assets/hourglass.png",
     "notification": {
